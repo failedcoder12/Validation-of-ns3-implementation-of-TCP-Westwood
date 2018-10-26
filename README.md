@@ -12,6 +12,6 @@ Recommended Reading: <br> ● Direct Code Execution (Link: https://www.nsnam.org
 <br>
 <br>
 <h3>Team Members</h3>
-<a href="#">Divyansh Verma(16CO110)</a><br>
-<a href="#">Pawan Rahangdale(16CO237)</a><br>
-<a href="#">Roshan lal Sahu(16CO242)</a><br>
+<a href="https://github.com/failedcoder12/">Divyansh Verma(16CO110)</a><br>
+<a href="https://github.com/PawanR730">Pawan Rahangdale(16CO237)</a><br>
+<a href="https://github.com/roshanls1997">Roshan lal Sahu(16CO242)</a><br>
