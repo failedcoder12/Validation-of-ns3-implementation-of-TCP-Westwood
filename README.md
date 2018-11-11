@@ -32,7 +32,7 @@ Comparison of **ns-3** and **Linux kernel** implemetations of **TCP WESTWOOD** u
 - Queue Size
 ![](https://user-images.githubusercontent.com/37220320/48315158-bf5d1a00-e5f8-11e8-940b-f884af04280a.png)
 
-We have identified possible resons for the deviation in the results. This can be found [here](https://github.com/failedcoder12/Validation-of-ns3-implementation-of-TCP-Westwood/wiki)
+Check Out our WIKI [here](https://github.com/failedcoder12/Validation-of-ns3-implementation-of-TCP-Westwood/wiki)
 
 ## Network Topology
 Dumbbell Topology - With 2 Routers and 5 nodes on each side of the router
