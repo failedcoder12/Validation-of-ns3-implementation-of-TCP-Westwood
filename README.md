@@ -27,10 +27,12 @@ Comparison of **ns-3** and **Linux kernel** implemetations of **TCP WESTWOOD** u
 # Final Result
 
 - Congestion Window
+![](https://user-images.githubusercontent.com/37220320/48315142-858c1380-e5f8-11e8-9594-6381b611f844.png)
 
 - Queue Size
+![](https://user-images.githubusercontent.com/37220320/48315158-bf5d1a00-e5f8-11e8-940b-f884af04280a.png)
 
-We have identified possible resons for the deviation in the results. This can be found [here]()
+We have identified possible resons for the deviation in the results. This can be found [here](https://github.com/failedcoder12/Validation-of-ns3-implementation-of-TCP-Westwood/wiki)
 
 ## Network Topology
 Dumbbell Topology - With 2 Routers and 5 nodes on each side of the router
@@ -49,6 +51,7 @@ With each node having a point to point connection to the router
 
 #### Adjustments made
 - PRR is enabled
+- ECN is enabled
 
 ## Files
 - `dce-gfc-dumbbell-new.cc` - Merged code for running tcp high speed implementations of ns-3 and linux kernel
