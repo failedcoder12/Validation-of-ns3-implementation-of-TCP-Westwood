@@ -55,7 +55,5 @@ With each node having a point to point connection to the router
 
 ## Files
 - `dce-gfc-dumbbell-new.cc` - Merged code for running tcp high speed implementations of ns-3 and linux kernel
-- `plot-scripts/plot_cwnd_comparison.sh` - Script to plot congestion window data from ns-3 and linux stacks 
-- `plot-scripts/plot_queue_size_comparison.sh` - Script to plot queue size data from ns-3 and linux stacks  
 - `plot-scripts/gnuplot_cwnd` - gnuplot commands to plot congestion window data
 - `plot-scripts/gnuplot_queue_size` - gnuplot commands to plot queue size data
