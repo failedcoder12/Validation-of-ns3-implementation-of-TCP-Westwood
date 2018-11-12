@@ -54,6 +54,6 @@ With each node having a point to point connection to the router
 - ECN is enabled
 
 ## Files
-- `dce-gfc-dumbbell-new.cc` - Merged code for running tcp high speed implementations of ns-3 and linux kernel
+- `dce-gfc-dumbbell-new.cc` - Merged code for running tcp westwood implementations of ns-3 and linux kernel
 - `plot-scripts/gnuplot_cwnd` - gnuplot commands to plot congestion window data
 - `plot-scripts/gnuplot_queue_size` - gnuplot commands to plot queue size data
