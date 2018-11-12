@@ -15,7 +15,6 @@ Recommended Reading: <br> ● Direct Code Execution (Link: https://www.nsnam.org
 <a href="https://github.com/failedcoder12/">Divyansh Verma(16CO110)</a><br>
 
 <a href="https://github.com/PawanR730">Pawan Rahangdale(16CO237)</a><br>
-
 <a href="https://github.com/roshanls1997">Roshan lal Sahu(16CO242)</a><br>
 
 
@@ -51,7 +50,7 @@ With each node having a point to point connection to the router
 
 #### Adjustments made
 - PRR is enabled
-- ECN is enabled
+- ECN, FACK, DSACK are disabled.
 
 ## Files
 - `dce-gfc-dumbbell-new.cc` - Merged code for running tcp westwood implementations of ns-3 and linux kernel
